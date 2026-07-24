@@ -1,0 +1,4 @@
+# No external dependencies required — stdlib only for core logic.
+# The Anthropic API is called via urllib (stdlib).
+# If you want to use the anthropic SDK instead, uncomment below:
+# anthropic>=0.20.0
